@@ -1,0 +1,30 @@
+# idea
+.idea
+*.iml
+
+# building
+target
+build
+build.log
+
+# other scm
+.svn
+.CVS
+.hg*
+
+#  project
+logs/
+
+# mac
+.DS_Store
+
+# vscode
+.classpath
+.project
+.settings/
+.factorypath
+
+# doc
+*.html
+*.adoc
+
